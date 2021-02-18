@@ -38,6 +38,13 @@ body {
   padding: 0px 0px 20px 10px;
 }
 
+#countdown img {
+  position: relative;
+  width: 57%;
+  margin-top: -50px;
+  z-index: -1;
+}
+
 .attribute {
   width: 100%;
   position: relative;
