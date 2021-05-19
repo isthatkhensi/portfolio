@@ -400,6 +400,33 @@ footer img {
   width: 60px;
 }
 
+.thank-you {
+  text-align: center;
+  margin-top: 150px;
+}
+
+.thank-you .check-icon {
+  font-size: 90px;
+  color: #C5CBE4;
+}
+
+.thank-you h1 {
+  font-size: 80px;
+  padding-top: 15px;
+}
+
+.thank-you p {
+  font-size: 20px;
+}
+
+.thank-you button {
+  background-color: transparent;
+  border: none;
+  color: #C5CBE4;
+  text-decoration: underline;
+  margin-top: 300px;
+}
+
 @media (max-width: 920px) {
   .hero-sec {
     display: block;

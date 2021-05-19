@@ -396,6 +396,35 @@ footer{
 }
 
 
+// Thank you page after contact form
+
+.thank-you{
+    text-align: center;
+    margin-top: 150px;
+
+    .check-icon{
+        font-size: 90px;
+        color: $primary-color;
+    }
+
+    h1{
+        font-size: 80px;
+        padding-top: 15px;
+    }
+
+    p{
+        font-size: 20px;
+    }
+
+    button{
+        background-color: transparent;
+        border: none;
+        color: $primary-color;
+        text-decoration: underline;
+        margin-top: 300px;
+    }
+}
+
 
 // Resposive Section (920)
 @media (max-width: 920px){
