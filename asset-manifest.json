@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1beb25dc.css",
-    "main.js": "/static/js/main.5fc59348.js",
+    "main.css": "/static/css/main.ec19cce3.css",
+    "main.js": "/static/js/main.7ae0ab90.js",
     "static/media/illustration.png": "/static/media/illustration.c1d950c79b36a5cf94ab.png",
     "static/media/soria-font-webfont.woff": "/static/media/soria-font-webfont.6320ce31a79436a8e2d7.woff",
     "static/media/soria-font-webfont.woff2": "/static/media/soria-font-webfont.273be94e5317ea56dceb.woff2",
     "static/media/logo.png": "/static/media/logo.0889eae3142f8bc45c81.png",
     "index.html": "/index.html",
-    "main.1beb25dc.css.map": "/static/css/main.1beb25dc.css.map",
-    "main.5fc59348.js.map": "/static/js/main.5fc59348.js.map"
+    "main.ec19cce3.css.map": "/static/css/main.ec19cce3.css.map",
+    "main.7ae0ab90.js.map": "/static/js/main.7ae0ab90.js.map"
   },
   "entrypoints": [
-    "static/css/main.1beb25dc.css",
-    "static/js/main.5fc59348.js"
+    "static/css/main.ec19cce3.css",
+    "static/js/main.7ae0ab90.js"
   ]
 }
